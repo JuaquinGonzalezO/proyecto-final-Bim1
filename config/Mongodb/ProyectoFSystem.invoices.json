@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67cbb0671fa451459f32f252"
+  },
+  "user": {
+    "$oid": "67cb70f5e211410a9d8ff72a"
+  },
+  "date": {
+    "$date": "2025-03-08T02:50:15.093Z"
+  },
+  "products": [
+    {
+      "idProduct": {
+        "$oid": "67cbaf6e597c5f685f84b0fa"
+      },
+      "name": "Mouse",
+      "quantity": 1,
+      "price": 4,
+      "subTotal": 4,
+      "_id": {
+        "$oid": "67cbb0671fa451459f32f253"
+      }
+    }
+  ],
+  "total": 4,
+  "createdAt": {
+    "$date": "2025-03-08T02:50:15.099Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T02:50:15.099Z"
+  }
+}]
