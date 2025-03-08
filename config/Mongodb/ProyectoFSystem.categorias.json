@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67cb71d08ccf7f9b1855798b"
+  },
+  "name": "ciencia",
+  "description": "Categoría para articulos de tecnologia",
+  "createdAt": {
+    "$date": "2025-03-07T22:23:12.936Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T22:23:12.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cb720e8ccf7f9b18557995"
+  },
+  "name": "tecnologia",
+  "description": "Categoría para articulos de tecnologia",
+  "createdAt": {
+    "$date": "2025-03-07T22:24:14.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T03:52:05.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cbbf7d0ecbfc43a1ddd417"
+  },
+  "name": "tecnology",
+  "description": "Categoría para articulos de tecnologia",
+  "status": false,
+  "createdAt": {
+    "$date": "2025-03-08T03:54:37.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T04:11:43.946Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cbc0d6e7d1a768e0c2ba61"
+  },
+  "name": "defecto",
+  "description": "Categoria por defecto",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-03-08T04:00:22.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T04:00:22.067Z"
+  }
+}]

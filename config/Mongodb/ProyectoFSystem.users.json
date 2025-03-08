@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "67cb71f58ccf7f9b18557990"
+  },
+  "name": "Ernesto",
+  "surname": "gonzalez",
+  "username": "ernstog",
+  "email": "ernesto@example.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$aXxMoYqyrjnCtFItog/a2g$UBxTcp69T3wXsBARfjudqFxa3I4SLSgscdEGwrji16I",
+  "role": "ADMIN_ROLE",
+  "phone": "12345678",
+  "estado": true,
+  "createdAt": {
+    "$date": "2025-03-07T22:23:49.722Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T22:23:49.722Z"
+  }
+}]

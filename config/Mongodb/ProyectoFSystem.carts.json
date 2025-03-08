@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "67cba19ab5aa7461c8731311"
+  },
+  "owner": {
+    "$oid": "67cb70f5e211410a9d8ff72a"
+  },
+  "products": [
+    {
+      "idProduct": {
+        "$oid": "67cbaf6e597c5f685f84b0fa"
+      },
+      "quantity": 1,
+      "subTotal": 4,
+      "_id": {
+        "$oid": "67cbb0dff39984ab514510f2"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-08T01:47:06.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T02:52:15.017Z"
+  }
+}]
